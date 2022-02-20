@@ -1,2 +1,2 @@
-# odin_project
+# odin_recipes
 My Odin project
