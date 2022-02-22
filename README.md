@@ -1,2 +1,2 @@
 # odin_recipes
-My Odin project
+My Odin project Using Html and CSS.
